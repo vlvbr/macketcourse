@@ -80,9 +80,9 @@ a:hover{
 .list{
     display: inline-block;
     position: relative;
-    padding: 14px;
     left: 430px;
     border-right: 2px solid #f0f0f5;
+    font-size: 30px;
 }
 .content{
     background-color: black;
